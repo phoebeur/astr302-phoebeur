@@ -7,3 +7,4 @@ making changes
 
 We’re practicing git here.
 New edits
+New edits part 2
